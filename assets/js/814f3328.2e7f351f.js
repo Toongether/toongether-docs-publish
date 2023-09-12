@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktoongether_docs=self.webpackChunktoongether_docs||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"\ud658\uc601\ud574\uc694","items":[{"title":"\ud230\uac8c\ub354\uc5d0 \ub300\ud558\uc5ec","permalink":"/introduction/about"},{"title":"FAQ","permalink":"/introduction/faq"}]}')}}]);

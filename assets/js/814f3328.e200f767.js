@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktoongether_docs=self.webpackChunktoongether_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud230\uac8c\ub354\uc5d0 \ub300\ud558\uc5ec","permalink":"/introduction/about"}]}')}}]);
