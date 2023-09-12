@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.toongether.kr/introduction</id>
+    <title>툰게더 Docs Blog</title>
+    <updated>2023-09-12T06:21:45.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.toongether.kr/introduction"/>
+    <subtitle>툰게더 Docs Blog</subtitle>
+    <icon>https://docs.toongether.kr/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[툰게더에 대하여]]></title>
+        <id>https://docs.toongether.kr/introduction/about</id>
+        <link href="https://docs.toongether.kr/introduction/about"/>
+        <updated>2023-09-12T06:21:45.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr><p>화면 속에서 즐기는 만화, 웹툰 시장은 날이 갈수록 커져 가고 있습니다. 미국의 코믹스, 일본의 만화잡지처럼 우리나라의 웹툰은 우리만의 독자적인 만화 문화를 형성했고, 이에 발맞춰 웹툰 작가를 꿈꾸는 사람도 많아졌습니다.</p><p>우리나라의 웹툰 업계는 수요층이 많고 상업성이 높은 작품만 연재를 허용하는 웹툰 업계의 고질적인 문제가 있습니다. 그래도 기업은 이익을 추구하는 집단이니 이런 문제는 불가피합니다. 이러한 문제 때문에 웹툰의 품질이 상향 평준화되면서 작가들이 받는 부담감과 압박감이 커져가고, 인기 많은 장르만 고집되다 보니 장르의 다양성이 부족해졌고 현재 웹툰들은 상업성이라는 커다란 벽 때문에 독창성을 잃고 있습니다.</p><p>저희는 이러한 문제들을 해결하고자 작가들에게 자유로운 연재 환경을 제공하고, 수익 구조를 개편함으로서 이 문제를 해결할 수 있지 않을까? 라는 생각에서 부터 탄생한 아이디어인 웹툰 자유 연재 플랫폼 툰게더입니다.</p>]]></content>
+    </entry>
+</feed>
