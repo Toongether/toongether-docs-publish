@@ -20,9 +20,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[웹툰 업로드해보기]]></title>
+        <id>https://docs.toongether.kr/introduction/try</id>
+        <link href="https://docs.toongether.kr/introduction/try"/>
+        <updated>2023-09-12T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr>]]></content>
+        <author>
+            <name>이석호</name>
+            <uri>https://mercen.net/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FAQ]]></title>
         <id>https://docs.toongether.kr/introduction/faq</id>
         <link href="https://docs.toongether.kr/introduction/faq"/>
+        <updated>2023-09-12T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr>]]></content>
+        <author>
+            <name>이석호</name>
+            <uri>https://mercen.net/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고객지원]]></title>
+        <id>https://docs.toongether.kr/introduction/support</id>
+        <link href="https://docs.toongether.kr/introduction/support"/>
         <updated>2023-09-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[---]]></summary>
         <content type="html"><![CDATA[<hr>]]></content>
